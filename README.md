@@ -1,1 +1,3 @@
 ### Hey there...
+
+[![Spotify](https://novatorem-two-theta.vercel.app/api/spotify)](https://open.spotify.com/user/deathmonkeyyt)
