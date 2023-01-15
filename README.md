@@ -1,3 +1,3 @@
 ### Hey there...
 
-[![Spotify](https://novatorem-two-theta.vercel.app/api/spotify)](https://open.spotify.com/user/deathmonkeyyt)
+[![Spotify](https://novatorem-two-theta.vercel.app/api/spotify/?background_color=0D1117)](https://open.spotify.com/user/deathmonkeyyt)
