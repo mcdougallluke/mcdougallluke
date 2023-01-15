@@ -8,11 +8,3 @@
 ---
 
 **🎯 Incoming Software Engineering Intern for Target (Summer 2023)**
-
-**🌎 ** 
-
-**🔭 **
-
-**🤖 **
-
-**📈 **
