@@ -2,7 +2,7 @@
 ---
 👋 Welcome! I'm a passionate software engineer with a drive for problem-solving. I love using technology to make things better, and I'm always on the lookout for interesting projects to work on.
 
-🎧 I love listening to music while I work, so feel free to check out what I'm currently vibing to:
+🎧 What I'm currently vibing to:
 
 [![Spotify](https://novatorem-two-theta.vercel.app/api/spotify/?background_color=0D1117&border_color=30363D)](https://open.spotify.com/user/deathmonkeyyt)
 
