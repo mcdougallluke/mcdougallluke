@@ -8,12 +8,13 @@
 
 ### About Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
 ---
+🧪 R&D Intern for Sandia National Labs 
 
 🎯 Software Engineering Intern for Target (Summer 2023)
 
 👨‍💻 Studying Computer Science at The University of New Mexico (Expected graduation: 2024)
 
-💼 My tech stack includes but is not limited to: JavaScript, Python, React, Node.js, Java, and Kafka.
+💼 My tech stack includes but is not limited to: JavaScript, Python, React, Node.js, and Java.
 
 
 ### Connect with Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
