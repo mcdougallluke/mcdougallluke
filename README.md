@@ -15,7 +15,7 @@
 
 👨‍💻 Bachelor's Degree in Computer Science with a minor in Mathematics (2024)
 
-💻 My tech stack: Java, C, C++, C#, Python, React, and JavaScript.
+💻 My tech stack: Kotlin, Java, C++, Python, React, and JavaScript.
 
 
 ### Connect with Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
