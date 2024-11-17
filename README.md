@@ -1,6 +1,6 @@
 ### Hello! I'm Luke. <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
 ---
-👋 I'm a software engineer with a drive to solve problems using tech.
+👋 I'm a software engineer for the Target corporation.
 
 
 ### Carrer History <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
