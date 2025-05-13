@@ -24,4 +24,6 @@
 
 ### Publications <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
-📄 [Free-Form Liquid Crystal Elastomers via Embedded 4D Printing](https://pubs.acs.org/doi/full/10.1021/acsami.3c14783)
+📄 [Real-time process monitoring and automated control for direct ink write 3D printing of frontally polymerizing thermosets](https://www.nature.com/articles/s44334-025-00032-1) (2025)
+
+📄 [Free-Form Liquid Crystal Elastomers via Embedded 4D Printing](https://pubs.acs.org/doi/full/10.1021/acsami.3c14783) (2023)
